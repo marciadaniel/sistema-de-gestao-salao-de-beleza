@@ -5,13 +5,13 @@
 
 ### Screenshots
 
-![](../prewiew/Login.png)
+![](prewiew/Login.png)
 
-![](../prewiew/movimentos.jpg)
-![](../prewiew/clientes.jpg)
-![](../prewiew/fornecedores.jpg)
-![](../prewiew/servicos.jpg)
-![](../prewiew/estoque.png)
+![](prewiew/movimentos.jpg)
+![](prewiew/clientes.jpg)
+![](prewiew/fornecedores.jpg)
+![](prewiew/servicos.jpg)
+![](prewiew/estoque.png)
 ### Links
 
 ## My process
