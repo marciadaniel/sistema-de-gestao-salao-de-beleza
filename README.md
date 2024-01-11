@@ -1,20 +1,14 @@
 # Sistema de Gestão de Salão de Beleza
 
-## Overview
-
-
 ### Screenshots
 
-![](prewiew/Login.png)
+![](preview/Login.png)
 
-![](prewiew/movimentos.jpg)
-![](prewiew/clientes.jpg)
-![](prewiew/fornecedores.jpg)
-![](prewiew/servicos.jpg)
-![](prewiew/estoque.png)
-### Links
-
-## My process
+![](preview/movimentos.jpg)
+![](preview/clientes.jpg)
+![](preview/fornecedores.jpg)
+![](preview/servicos.jpg)
+![](preview/estoque.png)
 
 ### Built with
 
